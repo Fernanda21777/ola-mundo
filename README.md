@@ -1,2 +1,2 @@
-# ola-mundo
-Meu primeiro projeto do curso de Git e GitHub
+# olá, mundo
+Meu primeiro projeto do curso de Git e GitHub !!
